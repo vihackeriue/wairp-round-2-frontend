@@ -1,5 +1,5 @@
 import axios from "axios";
-const BASE_URL = "http://localhost:8080/round-2/api";
+const BASE_URL = "https://wainrp-round-2-backend.onrender.com/round-2/api/";
 
 export const DEFAULT_LIMIT = 6;
 
